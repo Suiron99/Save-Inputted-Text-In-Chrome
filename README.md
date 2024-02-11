@@ -21,6 +21,6 @@ Tutorial down Below:
 
 
 [![Chrome Extension](![image](https://github.com/Suiron99/Save-IInputted-Text-In-Chrome/assets/142955018/3e963d58-6a44-4ee1-b647-4d1fbc8e9148)
-)]([https://youtu.be/nm3o5NEhlcw](https://youtu.be/7qnKuVnUm5c) "Chrome Extension")
+)](https://youtu.be/7qnKuVnUm5c "Chrome Extension")
 
    
