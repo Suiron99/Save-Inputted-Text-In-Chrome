@@ -1,0 +1,66 @@
+:root {
+ --bg-color: #ffff00; /* Yellow background */
+ --bg-light: #232323;
+ --font-color: #ffffff;
+ --button-color: #bb86fc;
+ --error-color: #cf6679;
+ --bg-lighter: rgb(57, 57, 57);
+ --bg-placeholder: #c2c2c2;
+}
+
+
+html {
+ background: var(--bg-color);
+ color: var(--font-color);
+ font-family: "Mulish", sans-serif;
+}
+
+
+main {
+ width: var(--popup-width);
+ height: var(--popup-height);
+ overflow-x: hidden;
+ overflow-y: scroll;
+ background: var(--bg-color);
+ position: relative;
+}
+
+
+input {
+ background: var(--bg-color);
+}
+
+
+::placeholder {
+ color: var(--bg-placeholder);
+}
+
+
+.text-input {
+ background: var(--bg-color); /* Keep the background color */
+ color: blue !important; /* Change the text color to blue */
+ border: none;
+ padding: 0.5rem 0.75rem;
+ border-radius: var(--border-rad);
+ font-size: 0.75rem;
+ width: 12.5rem;
+ margin-right: 1rem;
+}
+
+
+/* Scrollbar styles */
+main::-webkit-scrollbar {
+ width: 8px;
+}
+
+
+main::-webkit-scrollbar-track {
+ background: #000000;
+}
+
+
+main::-webkit-scrollbar-thumb {
+ background-color: rgb(62, 62, 62);
+ border-radius: 20px;
+ border: 3px solid rgb(62, 62, 62);
+}
