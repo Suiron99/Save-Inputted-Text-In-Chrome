@@ -1,5 +1,60 @@
 # Chrome Extension that Saves Inputted Text (Every different URL has a different saved text)
 
+## How to Download and Load Extension
+
+1) Download Zip.
+
+
+
+2) Extract Contents
+
+
+
+3) Go to Settings in Google Chrome at top right of browser
+
+
+
+![image](https://github.com/Suiron99/Save-IInputted-Text-In-Chrome/assets/142955018/6251cfbb-af7c-47b3-9bc7-c1df3bde3af9)
+
+
+
+4) Go to Extensions and Manage Extensions
+
+
+
+![image](https://github.com/Suiron99/Save-IInputted-Text-In-Chrome/assets/142955018/e30aee04-ec9c-4a64-a3de-178dc095da6f)
+
+
+
+
+5) Click Load unpacked at top left
+  
+  
+  
+  
+![image](https://github.com/Suiron99/Save-IInputted-Text-In-Chrome/assets/142955018/ee07db2a-4130-4ee8-b23c-20e420edf8f2)
+
+
+
+6) Navigate to Folder directory and highlight the extension folder
+
+
+
+![image](https://github.com/Suiron99/Save-IInputted-Text-In-Chrome/assets/142955018/e1b0e01e-8c2f-4246-a19b-699c5b889e5d)
+
+
+
+7) Click Select Folder
+
+
+
+![image](https://github.com/Suiron99/Save-IInputted-Text-In-Chrome/assets/142955018/accd93d5-8be2-4689-83f8-96675f785244)
+
+
+
+
+## Steps
+
 1)Input any text you wanna save inside the text box provided
 
 
