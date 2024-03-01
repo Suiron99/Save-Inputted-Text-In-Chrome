@@ -1,4 +1,4 @@
-#Chrome Extension that Saves Inputted Text (Every different URL has a different saved text)
+# Chrome Extension that Saves Inputted Text (Every different URL has a different saved text)
 
 1)Input any text you wanna save inside the text box provided
 
